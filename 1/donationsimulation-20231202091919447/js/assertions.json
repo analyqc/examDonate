@@ -1,0 +1,10 @@
+{
+  "simulation": "DonationSimulation",
+  "simulationId": "donationsimulation-20231202091919447",
+  "start": 1701508761061,
+  "description": "prueba",
+  "scenarios": ["DonationSimulation"],
+  "assertions": [
+
+  ]
+}
